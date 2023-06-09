@@ -1,3 +1,2 @@
-
 #!/bin/bash
-pwdroot@05118895f79e:/alx-system_engineering-devops/0x00-shell_basics# ls
+pwd
